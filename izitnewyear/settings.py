@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'lhb2dib$)8g08x(9foj0&kp37s2_p@=&howt$&hgqvtdxsbuh7'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['izitnewyear.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['https://izitnewyear.herokuapp.com','127.0.0.1']
 
 
 # Application definition
